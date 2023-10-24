@@ -1,3 +1,6 @@
+![image](https://github.com/TheAnkushAgarwal/pizza-menu/assets/96491776/ab70ff29-3946-4101-9987-10197b0f3ab0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
